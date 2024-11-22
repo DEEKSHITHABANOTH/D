@@ -7,7 +7,7 @@ def Gen_Eff(V, CL, IL, K, Rse, Ra):
     return Eff, CUL
 
 
-st.title("2305a21l39-PS10")
+st.title("2305a21l03-PS10")
 col1, col2 = st.columns(2)
 
 with col1:
